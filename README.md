@@ -48,10 +48,10 @@ Here are example screenshots demonstrating the application in action:
 
 ![photo](IMG_5555.jpg)
 
-You can listen the Audio Recordings [here](audio/one.mp3) for thes example.
+You can listen the Audio Recordings [here](one.mp3) for thes example.
 
 ![photo](IMG_5554.jpg)
 
 Audio Recordings
 
-You can listen the Audio Recordings [here](audio/two.mp3) for thes example.
+You can listen the Audio Recordings [here](two.mp3) for thes example.
