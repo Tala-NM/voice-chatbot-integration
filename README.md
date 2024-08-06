@@ -48,7 +48,7 @@ Here are example screenshots demonstrating the application in action:
 
 ![photo](IMG_5555.jpg)
 
-You can listen the Audio Recordings [here](audio/audio/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%A3%D9%A0.mp3) for thes example.
+You can listen the Audio Recordings [here](audio/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%A3%D9%A0.mp3) for thes example.
 
 ![photo](IMG_5554.jpg)
 
