@@ -52,6 +52,4 @@ You can listen the Audio Recordings [here](one.mp3) for thes example.
 
 ![photo](IMG_5554.jpg)
 
-Audio Recordings
-
 You can listen the Audio Recordings [here](two.mp3) for thes example.
